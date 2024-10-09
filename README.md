@@ -1,7 +1,10 @@
-Flight Price Prediction Model: 
-Pull docker image -- orhfusion/ticket-predict-model
+![Flight Form.png](https://raw.githubusercontent.com/OrhFusion/Flight-ML-Model/refs/heads/main/Flight%20Form.png)
 
----
+![Flight Form.png](https://github.com/OrhFusion/Flight-ML-Model/blob/main/Flight%20Predication.png)
+
+
+**Flight Price Prediction Model:** 
+
 
 ## Flight Price Prediction Model
 
@@ -28,6 +31,8 @@ The model is meticulously crafted using a suite of Python libraries and tools, i
 2. **Scalability**: Dockerization allows for straightforward scaling of the model to handle varying loads and integrate with larger systems, making it suitable for both small-scale applications and enterprise-level solutions.
 
 3. **Access and Integration**: The Docker image is available on Docker Hub under the name `orhfusion/ticket-predict-model`, facilitating easy access and deployment for developers and data scientists looking to leverage the model in their projects.
+
+4. **Pull docker image -- orhfusion/ticket-predict-model**
 
 This repository not only provides a powerful tool for flight price prediction but also serves as a practical example of modern data science practices and deployment strategies.
 
